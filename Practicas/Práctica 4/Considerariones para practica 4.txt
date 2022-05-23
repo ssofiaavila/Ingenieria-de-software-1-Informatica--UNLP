@@ -1,0 +1,8 @@
+debo tener el evento complemento de una condición
+
+los estados iniciales no pueden tener condiciones
+
+El texto del estado final va antes del botón
+
+No poner como acciones cosas que una transición está dando a entender
+Las acciones no son obligatorias
