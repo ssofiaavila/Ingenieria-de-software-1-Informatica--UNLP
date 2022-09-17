@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2022-09-17T13:51:21.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="XTjkV7UMxKEDYy5J1zac" version="20.3.0" type="github">
+  <diagram id="4TG05tXU7OVNGqJ1dDd3" name="Página-1">
+    <mxGraphModel dx="1385" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G066egLBPatzy42PNSVj-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="470" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-5" value="Confeccionar minuta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G066egLBPatzy42PNSVj-1">
+          <mxGeometry x="94" y="55" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-6" value="Aprobar minuta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G066egLBPatzy42PNSVj-1">
+          <mxGeometry x="80" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-7" value="Imprimir listado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G066egLBPatzy42PNSVj-1">
+          <mxGeometry x="210" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-8" value="Verificar CUIT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="G066egLBPatzy42PNSVj-1">
+          <mxGeometry x="320" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.025;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="G066egLBPatzy42PNSVj-1" source="G066egLBPatzy42PNSVj-8" target="G066egLBPatzy42PNSVj-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="230" as="sourcePoint" />
+            <mxPoint x="260" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-14" value="&amp;lt;extends&amp;gt;&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="G066egLBPatzy42PNSVj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-2" value="Empleado mesa de entradas&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-3" value="Empleado de rendiciones" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-4" value="Servidor AFIP" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="295" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="G066egLBPatzy42PNSVj-2" target="G066egLBPatzy42PNSVj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="G066egLBPatzy42PNSVj-3" target="G066egLBPatzy42PNSVj-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="307.9718875502008" as="sourcePoint" />
+            <mxPoint x="306.5495086477556" y="276.53624324342263" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="G066egLBPatzy42PNSVj-3" target="G066egLBPatzy42PNSVj-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="615.3846153846155" as="sourcePoint" />
+            <mxPoint x="312.86766640378846" y="511.419666889102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="G066egLBPatzy42PNSVj-3" target="G066egLBPatzy42PNSVj-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G066egLBPatzy42PNSVj-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="G066egLBPatzy42PNSVj-4" target="G066egLBPatzy42PNSVj-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="628.505747126437" as="sourcePoint" />
+            <mxPoint x="541.0053501029586" y="463.08943271010025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
