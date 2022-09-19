@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T16:44:31.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nUNsP_hh35rq2VivIJGJ" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T16:54:04.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hcw3H2Sk7lzl_sciNkqU" version="20.3.2" type="github">
   <diagram id="LKEenp2rkKKXYcsgk1IQ" name="Página-1">
-    <mxGraphModel dx="2212" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1653" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="essxAi90VnEo2RI6qhOE-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="370" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="essxAi90VnEo2RI6qhOE-7" value="Realizar pago" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="essxAi90VnEo2RI6qhOE-1">
+        <mxCell id="essxAi90VnEo2RI6qhOE-7" value="Realizar cobro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="essxAi90VnEo2RI6qhOE-1">
           <mxGeometry x="70" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="essxAi90VnEo2RI6qhOE-9" value="Registrar cobros" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="essxAi90VnEo2RI6qhOE-1">
