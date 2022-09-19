@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T17:26:15.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="J7J0krV2tU4RzKSZ-fRn" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T17:42:36.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zGLsWEoM9fl0HKW1E226" version="20.3.2" type="github">
   <diagram id="MoXR4MBrUsNj02Ycotvp" name="Página-1">
-    <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="90" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-wnpG_9vp8TjuptNJA_o-10" value="Puntuar copilotos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-wnpG_9vp8TjuptNJA_o-1">
-          <mxGeometry x="100" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-wnpG_9vp8TjuptNJA_o-11" value="Puntual piloto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-wnpG_9vp8TjuptNJA_o-1">
           <mxGeometry x="120" y="370" width="120" height="80" as="geometry" />
@@ -27,6 +27,18 @@
         </mxCell>
         <mxCell id="-wnpG_9vp8TjuptNJA_o-15" value="Registrarse" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-wnpG_9vp8TjuptNJA_o-1">
           <mxGeometry x="360" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wnpG_9vp8TjuptNJA_o-23" value="Aceptar copiloto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-wnpG_9vp8TjuptNJA_o-1">
+          <mxGeometry x="320" y="395" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-wnpG_9vp8TjuptNJA_o-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.055;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="-wnpG_9vp8TjuptNJA_o-1" source="-wnpG_9vp8TjuptNJA_o-23" target="-wnpG_9vp8TjuptNJA_o-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wnpG_9vp8TjuptNJA_o-29" value="&amp;lt;extends&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="-wnpG_9vp8TjuptNJA_o-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-wnpG_9vp8TjuptNJA_o-2" value="Usuario registrado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="240" width="100" height="180" as="geometry" />
@@ -92,6 +104,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="519.5454545454545" as="sourcePoint" />
             <mxPoint x="195.09918364629493" y="593.4676994273561" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-wnpG_9vp8TjuptNJA_o-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-wnpG_9vp8TjuptNJA_o-3" target="-wnpG_9vp8TjuptNJA_o-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="370" as="sourcePoint" />
+            <mxPoint x="420" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
