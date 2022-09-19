@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T17:02:25.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="X9oDzJIX1Exm129Me81t" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T17:02:47.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ofQEROEKsufNYl_6j5Qm" version="20.3.2" type="github">
   <diagram id="LKEenp2rkKKXYcsgk1IQ" name="Página-1">
     <mxGraphModel dx="1529" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,22 +19,13 @@
         <mxCell id="essxAi90VnEo2RI6qhOE-13" value="Recuperar datos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="essxAi90VnEo2RI6qhOE-1">
           <mxGeometry x="240" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="essxAi90VnEo2RI6qhOE-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="essxAi90VnEo2RI6qhOE-1" source="essxAi90VnEo2RI6qhOE-7" target="essxAi90VnEo2RI6qhOE-13">
+        <mxCell id="essxAi90VnEo2RI6qhOE-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="essxAi90VnEo2RI6qhOE-1" source="essxAi90VnEo2RI6qhOE-13" target="essxAi90VnEo2RI6qhOE-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="170" as="sourcePoint" />
             <mxPoint x="260" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="essxAi90VnEo2RI6qhOE-22" value="&amp;lt;uses&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="essxAi90VnEo2RI6qhOE-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="essxAi90VnEo2RI6qhOE-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="essxAi90VnEo2RI6qhOE-1" source="essxAi90VnEo2RI6qhOE-9" target="essxAi90VnEo2RI6qhOE-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="388.48888096756264" y="464.79656796264135" as="sourcePoint" />
-            <mxPoint x="501.5040439326185" y="325.2008869067656" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="essxAi90VnEo2RI6qhOE-24" value="&amp;lt;uses&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="essxAi90VnEo2RI6qhOE-23">
+        <mxCell id="essxAi90VnEo2RI6qhOE-22" value="&amp;lt;extends&amp;gt;&amp;nbsp;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="essxAi90VnEo2RI6qhOE-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="essxAi90VnEo2RI6qhOE-25" value="Enviar datos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="essxAi90VnEo2RI6qhOE-1">
