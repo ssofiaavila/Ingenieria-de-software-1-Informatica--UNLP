@@ -18,7 +18,7 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
   
   * [4- Máquina de reciclado](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Pr%C3%A1ctica%203/M%C3%A1quina%20de%20reciclado)
   
-  * [5- Impresión de fotos]()
+  * [5- Impresión de fotos](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Pr%C3%A1ctica%203/Impresi%C3%B3n%20de%20fotos)
   * [6- Ventas de entradas para teatro]()
   * [7- Préstamos personales]()
   * [8- Pago de impuestos y servicios]()
