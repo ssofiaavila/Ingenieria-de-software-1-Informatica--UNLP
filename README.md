@@ -8,7 +8,7 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
 * <details>
   <summary>Práctica 3</summary>  
   
-  * [Parte 1](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A1ctica%203-%20CU.docx)
+  * [Parte 1](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A1ctica%203-%20CU.docx](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A1ctica%203-%201ra%20parte.pdf)
   
   * [1- Alquiler mobiliario](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Alquiler%20de%20mobiliario.pdf)
   
