@@ -22,9 +22,9 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
   
   * [6- Ventas de entradas para teatro](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Venta%20de%20entradas%20para%20teatro.pdf)
   * [7- Préstamos personales](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A9stamos%20personales.pdf)
-  * [8- Pago de impuestos y servicios]()
-  * [9- Un aventón]()
-  * [10- Gimnasio]()
+  * [8- Pago de impuestos y servicios](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pago%20de%20impuestos%20y%20servicios.pdf)
+  * [9- Un aventón](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Un%20avent%C3%B3n.pdf)
+  * [10- Gimnasio](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Gimnasio.pdf)
   * [11- Carga de empleados]()
  </details>
 
