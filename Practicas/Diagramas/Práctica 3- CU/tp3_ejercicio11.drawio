@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2022-09-21T16:13:53.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="TVRghpmxssIJUOd9gVcU" version="20.3.3" type="github">
+  <diagram id="gw73W9N21cBH8su-3zYn" name="Página-1">
+    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="410" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-3" value="Cargar contrato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2Oos3L0P9lYnhm8oJ1MC-1">
+          <mxGeometry x="50" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-5" value="Verificar morosidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2Oos3L0P9lYnhm8oJ1MC-1">
+          <mxGeometry x="260" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-7" value="Regularizar deuda" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="2Oos3L0P9lYnhm8oJ1MC-1">
+          <mxGeometry x="220" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2Oos3L0P9lYnhm8oJ1MC-1" source="2Oos3L0P9lYnhm8oJ1MC-3" target="2Oos3L0P9lYnhm8oJ1MC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="360" as="sourcePoint" />
+            <mxPoint x="270" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-9" value="&amp;lt;uses&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="2Oos3L0P9lYnhm8oJ1MC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.579;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="2Oos3L0P9lYnhm8oJ1MC-1" source="2Oos3L0P9lYnhm8oJ1MC-7" target="2Oos3L0P9lYnhm8oJ1MC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372.03999999999996" y="270" as="sourcePoint" />
+            <mxPoint x="460.3073772064097" y="275.95630619785356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-11" value="&amp;lt;uses&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="2Oos3L0P9lYnhm8oJ1MC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-2" value="Servidor externo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="150" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-4" value="Secretaria" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-6" value="Terminal electrónica" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2Oos3L0P9lYnhm8oJ1MC-5" target="2Oos3L0P9lYnhm8oJ1MC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="510" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2Oos3L0P9lYnhm8oJ1MC-6" target="2Oos3L0P9lYnhm8oJ1MC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="575.2818496575001" y="264.45197978382816" as="sourcePoint" />
+            <mxPoint x="680" y="234.87179487179492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="2Oos3L0P9lYnhm8oJ1MC-5" target="2Oos3L0P9lYnhm8oJ1MC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="446.21621621621625" as="sourcePoint" />
+            <mxPoint x="550.9311922768311" y="314.27510495540764" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2Oos3L0P9lYnhm8oJ1MC-6" target="2Oos3L0P9lYnhm8oJ1MC-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="380" as="sourcePoint" />
+            <mxPoint x="600" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Oos3L0P9lYnhm8oJ1MC-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="2Oos3L0P9lYnhm8oJ1MC-4" target="2Oos3L0P9lYnhm8oJ1MC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="482.63821749144404" as="sourcePoint" />
+            <mxPoint x="539.7218500453066" y="473.84711303972847" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
