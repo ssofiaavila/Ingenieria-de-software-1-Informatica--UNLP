@@ -8,24 +8,8 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
 * <details>
   <summary>Práctica 3</summary>  
   
-  * [Parte 1](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A1ctica%203-%201ra%20parte.pdf)
-  
-  * [1- Alquiler mobiliario](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Alquiler%20de%20mobiliario.pdf)
-  
-  * [2- Posgrado](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Posgrado.pdf)
-  
-  * [3- Contratos](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Pr%C3%A1ctica%203/Contratos)
-  
-  * [4- Máquina de reciclado](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Pr%C3%A1ctica%203/M%C3%A1quina%20de%20reciclado)
-  
-  * [5- Impresión de fotos](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Impresi%C3%B3n%20de%20fotos.pdf)
-  
-  * [6- Ventas de entradas para teatro](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Venta%20de%20entradas%20para%20teatro.pdf)
-  * [7- Préstamos personales](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pr%C3%A9stamos%20personales.pdf)
-  * [8- Pago de impuestos y servicios](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Pago%20de%20impuestos%20y%20servicios.pdf)
-  * [9- Un aventón](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Un%20avent%C3%B3n.pdf)
-  * [10- Gimnasio](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203/Gimnasio.pdf)
-  * [11- Carga de empleados]()
+  * [Parte 1 y 2](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%203-%20CU.pdf)
+  * [Diagramas](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Diagramas/Pr%C3%A1ctica%203-%20CU)
  </details>
 
 
