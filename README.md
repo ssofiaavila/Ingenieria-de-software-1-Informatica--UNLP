@@ -18,6 +18,7 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
   
   * [Parte 1](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%205%2C%20parte%201-%20RP.pdf)
  </details> 
+ * [Parte 2])(https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%205%2C%20parte%202-%20RP.pdf)
  
 
 * [Ejemplos de HU](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Ejemplos%20HU)
