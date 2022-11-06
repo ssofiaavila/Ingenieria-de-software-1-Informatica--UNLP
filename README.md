@@ -17,11 +17,13 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
   <summary> Práctica 5 </summary>
   
   * [Parte 1](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%205%2C%20parte%201-%20RP.pdf)
- </details> 
- * [Parte 2])(https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%205%2C%20parte%202-%20RP.pdf)
- 
+  * [Parte 2](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Practicas/Pr%C3%A1ctica%205%2C%20parte%202-%20RP.pdf)
+  
+  </details> 
 
-* [Ejemplos de HU](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Ejemplos%20HU)
+
+
+
 * [Prácticas hechas en cursada 2021](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/2021)
 ----------------
 ## Material ##
@@ -41,3 +43,4 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
 
 * [Plantillas](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Plantillas)
 * [Teorías](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Teor%C3%ADas)
+* [Ejemplos de HU](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/tree/main/Practicas/Ejemplos%20HU)
