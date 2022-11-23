@@ -28,13 +28,16 @@ Prácticas y material de ingeniería de software 1, cursada 2do semestre 2022- F
 ----------------
 ## Material ##
 * <details>
-  <summary> Enunciados de parciales y finales </summary>
+  <summary> Parciales </summary>
   
   * [Parciales CU](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/CU%20parciales.pdf)
   * [Parciales DTE](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/DTE%20parciales.pdf)
   * [Parciales RP](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/RP%20parciales.pdf)
   * [Parciales TD](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/TD%20parciales.pdf)
+  -----
+  * [Parcial 1ra fecha 2022](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/Parcial%20IS1%201ra%20fecha%202022.pdf)
   * [Parcial promoción 2021](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/Parcial%20promoci%C3%B3n%201.pdf)
+  
   * [Parcial 1ra fecha 2021](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/Parcial%20IS1%201ra%20fecha%202021.pdf)
   * [Parcial 2da fecha 2021](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/Parcial%20IS1%202da%20fecha%202021.pdf)
   * [Finales viejos](https://github.com/ssofiaavila/Ingenieria-de-software-1-Informatica--UNLP/blob/main/Parciales%20%2B%20finales/Finales%20viejos%20IS1.pdf)
